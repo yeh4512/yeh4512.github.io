@@ -2,3 +2,7 @@ h1 {
   background-color: beige; 
   color: white;
 }
+
+.text {
+  text-align: center;
+}
