@@ -5,11 +5,24 @@ h1 {
 
 .center {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-
   text-align: center;
-  
-  margin-left: auto;
-  margin-right: auto;
+  height: 100vh;
+}
+
+table {
+  margin: 20px 0;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
 }
