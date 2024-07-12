@@ -4,5 +4,7 @@ h1 {
 }
 
 .class_text {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
