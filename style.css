@@ -28,3 +28,8 @@ button {
   cursor: pointer;
   background-color: pink;
 }
+
+img {
+  border-radius =50px;
+  border: soliid 5px gray;
+}
