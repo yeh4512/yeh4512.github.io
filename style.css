@@ -30,7 +30,6 @@ button {
 }
 
 img {
-  border-radius = 50px;
+  border-radius: 50px;
   border: solid 5px gray;
-  overflow: hidden;
 }
