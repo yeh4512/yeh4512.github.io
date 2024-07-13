@@ -30,6 +30,6 @@ button {
 }
 
 img {
-  border-radius = 50%;
-  border: soliid 5px gray;
+  border-radius = 50px;
+  border: solid 5px gray;
 }
